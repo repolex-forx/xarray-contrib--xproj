@@ -1,0 +1,11 @@
+{
+  "org": "xarray-contrib",
+  "repo": "xproj",
+  "versions": [
+    {
+      "commit": "033e141509ff55cc1040dbba84907877a560a124",
+      "tag": "0.2.1",
+      "parsed_at": "2026-10-28T11:20:27.888204+00:00"
+    }
+  ]
+}
